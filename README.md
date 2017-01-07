@@ -30,5 +30,5 @@
 
 ### Project details
   1. Project name:
-  2. Project summary:
+  2. Project summary: The fastest turning Rubik's cube
   3. Project coordinator:
